@@ -1,8 +1,8 @@
-# A Gesture-Based Tool For Sterile Browsing Of Radiology
+# A Gesture-Based Tool For Sterile Browsing Of Radiology Images
 
 ## $\color[RGB]{168,109,156} TEAM:$
 
-    1. Madhumitha R -312819104044
+    1. Madhumitha R[TL] -312819104044
     
     2. Mrithula V -312819104051
     
