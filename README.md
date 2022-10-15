@@ -130,7 +130,7 @@
     
             ⦿ [Technical Stack] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Stack.pdf
             
-            ⦿ [Customer Journey Map] -
+            ⦿ [Customer Journey Map] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Customer%20Journey%20Map.pdf
 >           
 >       ➼ Project Planning Phase
 >       
