@@ -32,6 +32,20 @@
     ➼ Know how to pre-process/clean the data using different data preprocessing techniques.
 
     ➼ Know how to build a web application using Flask framework.
+    
+## $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$
+
+       ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
+      different hand gestures, like showing numbers with fngers as 0,1,2,3,4,5. Then we made a web portal
+      using Flask where user can input any image on which he wants to perform the operations. After
+      uploading the image, our portal uses the integrated webcam to capture the video frame using
+      OpenCV. The gesture captured in the video frame is compared with the Pre-trained model and the
+      gesture is identifed. If the prediction is 0 - then images is converted into rectangle, 1 - image is blurred
+      , 2 - image is rotated by -45॰, 3 - image is resized in (400,400) , 4 - image is Resized in (200,200)  , 5 -
+      image is converted into grayscale, but in real time we use of doctor-computer interaction devices in
+      the operation room (OR) requires new modalities that support medical imaging manipulation while
+      allowing doctors' hands to remain sterile, supporting their focus of attention, and providing fast
+      response times.
    
 ## $\color[RGB]{168,109,156} PROJECT \ FLOW:$
 
@@ -92,25 +106,31 @@
 
 >       ➼ Ideation phase
 >           
->           ⦿ [Brainstroming- Idea Generation] -
+>           ⦿ [Brainstroming- Idea Generation] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstroming-Idea%20Generation-Prioritization.pdf
 
-            ⦿ [Problem statement] -
+            ⦿ [Problem statement] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Define%20Problem%20Statements.pdf
 >           
->           ⦿ [Empathy Map Canvas] - 
+>           ⦿ [Empathy Map Canvas] - https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map%20(1).pdf
+
+            ⦿ [Literature Survey] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf
 >           
 >       ➼ Project Design Phase – I
 >            
->           ⦿ [Proposed Solution Fit] -
+>           ⦿ [Proposed Solution Fit] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Problem%20solution%20fit.pdf
 >           
->           ⦿ [Prepare Solution] -
+>           ⦿ [Prepare Solution] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution.pdf
 >           
->           ⦿ [Solution Architecture] -
+>           ⦿ [Solution Architecture] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Solution%20Architecture.pdf
 >           
 >       ➼ Project Design Phase – II
 >           
->           ⦿ [Data Flow Diagrams]-
+>           ⦿ [Data Flow Diagrams]-https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Data%20Flow%20Diagrams%20and%20User%20Stories.pdf
 >           
->           ⦿ [Solution Requirement ] -
+>           ⦿ [Solution Requirement] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Solution%20Requirements.pdf
+    
+            ⦿ [Technical Stack] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20II/Technology%20Stack.pdf
+            
+            ⦿ [Customer Journey Map] -
 >           
 >       ➼ Project Planning Phase
 >       
