@@ -1,4 +1,4 @@
-# A Gesture-Based Tool For Sterile Browsing Of Radiology Images
+# A Gesture-Based Tool For Sterile Browsing Of Radiology Images<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2764_fe0f/512.gif" alt="❤" width="40" height="40">
 
 <p align="center">
 <a href="https://www.ibm.com/in-en">
