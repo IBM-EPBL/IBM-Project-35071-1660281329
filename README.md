@@ -1,6 +1,10 @@
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images
 
-## $\color[RGB]{168,109,156} TEAM:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} TEAM:$</h2></div>
 
     1. Madhumitha R[TL] -312819104044
     
@@ -10,7 +14,11 @@
     
     4. Sowmiya T[TM3] - 312819104073
 
-## $\color[RGB]{168,109,156} INTRODUCTION:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
     and synaptic interactions that wereformed along brain development . In order to replicate this skill in computers, 
@@ -22,7 +30,11 @@
     frame. The image of the gesture captured in the video frame is compared with the Pre-trained model and the gesture is identified. 
     If the gesture predictes is 1 then images is blurred;2, image is resized;3,image is rotatedm etc.
 
-## $\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} PROJECT \ OBJECTIVE:$</h2></div>
 **By the end of this project you will**
 
     ➼ Know fundamental concepts and techniques of Convolutional Neural Network.
@@ -33,7 +45,11 @@
 
     ➼ Know how to build a web application using Flask framework.
     
-## $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> $\color[RGB]{168,109,156} PROBLEM \ STATEMENT:$</h2></div>
 
        ⦿ In this project we have used Convolutional Neural Network to frst train the model on the images of
       different hand gestures, like showing numbers with fngers as 0,1,2,3,4,5. Then we made a web portal
@@ -47,7 +63,11 @@
       allowing doctors' hands to remain sterile, supporting their focus of attention, and providing fast
       response times.
    
-## $\color[RGB]{168,109,156} PROJECT \ FLOW:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> $\color[RGB]{168,109,156} PROJECT \ FLOW:$</h2></div>
 
     ⦿ User interacts with the UI (User Interface) to upload the image as input
 
@@ -84,7 +104,11 @@
         ⦿ Build Python Code
 
 
-## $\color[RGB]{168,109,156} PROJECT \ STRUCTURE:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} PROJECT \ STRUCTURE:$</h2></div>
 **Create a Project folder which contains files as shown below**
 
 
@@ -97,12 +121,20 @@
     ⦿ The static folder will contain js and css files.
     ⦿ Whenever we upload a image to predict, that images is saved in uploads folder.
 
-## $\color[RGB]{168,109,156} TECHNICAL \ ARCHITECTURE:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture>$\color[RGB]{168,109,156} TECHNICAL \ ARCHITECTURE:$</h2></div>
 
 ![image](https://user-images.githubusercontent.com/70817219/194914841-4fc230f1-53f9-4b5a-8d9a-e902d9fc3581.png)
 
 
-## $\color[RGB]{168,109,156} PROJECT \ WORKFLOW:$
+<div>
+ <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture> $\color[RGB]{168,109,156} PROJECT \ WORKFLOW:$</h2></div>
 
 >       ➼ Ideation phase
 >           
