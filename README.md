@@ -1,5 +1,25 @@
 # A Gesture-Based Tool For Sterile Browsing Of Radiology Images
 
+<p align="center">
+<a href="https://www.ibm.com/in-en">
+<img src="https://img.shields.io/badge/IBM-052FAD.svg?style=for-the-badge&logo=IBM&logoColor=white"> 
+</a>
+   <a href="https://www.python.org/g">
+    <img src="https://forthebadge.com/images/badges/made-with-python.svg" width =182 >
+  </a>
+
+  <a href="https://www.ibm.com/cloud">
+      <img src="https://img.shields.io/badge/IBM%20Watson-BE95FF.svg?style=for-the-badge&logo=IBM-Watson&logoColor=white" width=130>
+  </a>
+  <a href="https://opencv.org/">
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white">
+   </a>
+ 
+  <a href="https://pandas.pydata.org/">
+    <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
+    </a>
+</p>
+
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
