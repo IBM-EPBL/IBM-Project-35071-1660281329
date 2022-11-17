@@ -186,19 +186,19 @@
 >           
 >       ➼ Project Planning Phase
 >       
->           ⦿ [Prepare Milestone & Activity List] -
+>           ⦿ [Prepare Milestone & Activity List] - https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/IBM%20Milestone%20and%20Activity%20List.pdf
 >           
->           ⦿ [Sprint Delivery Plan] -
+>           ⦿ [Sprint Delivery Plan] - https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/blob/main/Project%20Design%20%26%20Planning/Project%20Planning/Project%20Planning%20Template%20(3).pdf
 >           
 >       ➼ Project Development Phase
 >       
->           ⦿ [Project Development - Delivery Of Sprint-1] -
+>           ⦿ [Project Development - Delivery Of Sprint-1] - https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/tree/main/Project%20Development%20Phase/Sprint%201
 >           
->           ⦿ [Project Development - Delivery Of Sprint-2] -     
+>           ⦿ [Project Development - Delivery Of Sprint-2] - https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/tree/main/Project%20Development%20Phase/Sprint%202    
 >               
->           ⦿ [Project Development - Delivery Of Sprint-3]-
+>           ⦿ [Project Development - Delivery Of Sprint-3]- https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/tree/main/Project%20Development%20Phase/Sprint%203
 >           
->           ⦿ [Project Development - Delivery Of Sprint-4] -
+>           ⦿ [Project Development - Delivery Of Sprint-4] -https://github.com/IBM-EPBL/IBM-Project-35071-1660281329/tree/main/Project%20Development%20Phase/Sprint%204
 >                
 
 ### IBM Project | Dept of Computer Science and Engineering | <img src="https://user-images.githubusercontent.com/83297844/194126327-5c9091a6-f2ab-4793-9444-9a07f37aafe0.png" alt="InfiniteGraph Logo" width="20"> Agni College of Technology 
