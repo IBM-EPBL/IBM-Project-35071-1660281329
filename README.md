@@ -18,13 +18,13 @@
   <a href="https://pandas.pydata.org/">
     <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     </a>
-</p>
+</p></p>
 
 <div>
- <h2><picture>
-  <source srcset= "https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px">
-</picture>$\color[RGB]{168,109,156} TEAM:$</h2></div>
+   <h2><picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+</picture><h2>$\color[RGB]{168,109,156} TEAM:$</h2></div>
 
     1. Madhumitha R[TL] -312819104044
     
@@ -37,7 +37,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
