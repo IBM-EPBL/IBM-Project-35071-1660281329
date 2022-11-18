@@ -37,7 +37,7 @@
 <div>
  <h2><picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px">
 </picture>$\color[RGB]{168,109,156} INTRODUCTION:$</h2></div>
 
         ⦿ Humans are able to recognize body and sign language easily. This is possible due to the combination of vision
