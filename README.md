@@ -20,7 +20,7 @@
     </a>
 </p></p>
 
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"><a href="https://www.youtube.com/embed/bvmvZOK7OW4">DEMO VIDEO </a>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" width="30px"><a href="https://www.youtube.com/watch?v=R3mGI7rzDsk">DEMO VIDEO </a>
 
 <div>
    <h2><picture>
@@ -208,6 +208,6 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f31f/512.gif" alt="🌟" width="32" height="32">
 </picture>$\color[RGB]{168,109,156} DEMO \ VIDEO:$</h2></div>
 
-[![Watch the video](https://ars.els-cdn.com/content/image/1-s2.0-S1067502708000297-gr1.jpg)](https://www.youtube.com/embed/bvmvZOK7OW4)
+[![Watch the video](https://ars.els-cdn.com/content/image/1-s2.0-S1067502708000297-gr1.jpg)](https://www.youtube.com/watch?v=R3mGI7rzDsk)
 
 ### IBM Project | Dept of Computer Science and Engineering | <img src="https://user-images.githubusercontent.com/83297844/194126327-5c9091a6-f2ab-4793-9444-9a07f37aafe0.png" alt="InfiniteGraph Logo" width="20"> Agni College of Technology 
